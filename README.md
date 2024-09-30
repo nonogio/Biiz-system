@@ -5,7 +5,7 @@
 Nouveau plugin pour les entreprises de Nova Life.
 
 ## Installation
-1. Télecharger le plugin (le .dll) :
+1. Télecharger le plugin (le .dll) : https://github.com/nonogio/Biiz-system
 2. Placer le dans votre dossier plugins de votre serveur
 3. Démarrer votre serveur
 4. Profitez du nouveau plugin
